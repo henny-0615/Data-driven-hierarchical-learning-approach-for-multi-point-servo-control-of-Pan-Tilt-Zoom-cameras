@@ -4,8 +4,9 @@ This repository consists of two main parts: the virtual simulator and the traini
 ## Evaluate in the virtual simulator.
 1. Install the necessary dependencies。Note that we conducted our experiments using python 3.8.10.
 
-`<div style="background-color: #f0f0f0; padding: 10px;">
-pip install -r requirements\requirements_sim.txt</div>`
+```html<div style="background-color: #f0f0f0; padding: 10px;">
+pip install -r requirements\requirements_sim.txt
+```
 
 2. The virtual environment is built using Unity 3D, and includes swamp and mountain scenes located in Simulator\Assets\scenes.
 
